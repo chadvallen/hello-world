@@ -2,4 +2,4 @@
 
 My first repository
 
-Hello, my name is Chad and I enjoy wake shredding.
+Hello, my name is Chad and I enjoy coding and waterskiing.
